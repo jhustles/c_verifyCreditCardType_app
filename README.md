@@ -1,4 +1,4 @@
-# Visa, Master Card and American Express Credit Card Checker in C Programming Lanuage
+# Visa, Master Card and American Express Credit Card Checker in C Programming Language
 ## August 2020
 
 
